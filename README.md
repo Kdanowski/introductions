@@ -66,9 +66,9 @@ yourself:
 <body>
     <div class="container">
         <header class="main-info">
-            <h1>Your Name: [Your Full Name]</h1>
-            <p>Preferred Name: [Your Preferred Name]</p>
-            <p>Current/Recent Job Title: [Your Job Title]</p>
+            <h1>Your Name: Kevin Andrew Danowski</h1>
+            <p>Preferred Name: Kevin</p>
+            <p>Current/Recent Job Title: Tech Repair Technician</p>
         </header>
 
         <section class="career">
